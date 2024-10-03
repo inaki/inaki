@@ -62,5 +62,7 @@ Having successfully obtained the CompTIA Security+ certification, I've demonstra
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Simple SQL injection in python](https://ytcards.demolab.com/?id=Nn8piegGedk&title=Simple+SQL+injection+in+python&lang=en&timestamp=1727985243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Simple SQL injection in python")](https://www.youtube.com/watch?v=Nn8piegGedk)
+[![Costomizar o Personalizar Github Profile](https://ytcards.demolab.com/?id=qZ6f2oVfbNQ&title=Costomizar+o+Personalizar+Github+Profile&lang=en&timestamp=1727849285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Costomizar o Personalizar Github Profile")](https://www.youtube.com/watch?v=qZ6f2oVfbNQ)
+[![Code4PR](https://ytcards.demolab.com/?id=f1tohrhEosU&title=Code4PR&lang=en&timestamp=1397005138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code4PR")](https://www.youtube.com/watch?v=f1tohrhEosU)
 <!-- END YOUTUBE-CARDS -->
