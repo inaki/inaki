@@ -60,3 +60,7 @@ Having successfully obtained the CompTIA Security+ certification, I've demonstra
   <img alt="Splunk" src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
 
 </p>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
