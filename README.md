@@ -70,5 +70,5 @@ Having successfully obtained the CompTIA Security+ certification, I've demonstra
 <!-- END YOUTUBE-CARDS -->
 
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@drsiux/videos)
+[![YouTube Badge](https://img.shields.io/badge/Subscribe-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@drsiux/videos)
 
