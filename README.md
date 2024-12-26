@@ -10,26 +10,26 @@
 # Imanol Iñaki Aranzadi  👋
 
 
-## Senior Software Engineer transitioning to Cybersecurity
+## Senior UI Engineer  
 
-I am a seasoned software engineer with a strong foundation in code development, system design, web applications, and development automation. Currently, I'm leveraging my technical expertise to make a strategic transition into the dynamic field of cybersecurity. My journey is marked by a continuous pursuit of knowledge, particularly in cloud computing, networking security, and automation scripting.
+I am a Senior UI Engineer at the forefront of AI, working on state-of-the-art technology alongside some of the brightest minds in the industry. My current role focuses on crafting intuitive and robust user interfaces, pushing the boundaries of what's possible as we transition into the next era of engineering innovation.
 
-Having successfully obtained the CompTIA Security+ certification, I've demonstrated a solid understanding of core cybersecurity concepts. I'm now focused on translating this theoretical knowledge into practical, real-world applications. My unique blend of software engineering experience and cybersecurity knowledge positions me as a valuable asset in bridging the gap between development and security practices.
+My expertise lies in designing scalable systems, creating exceptional user experiences, and driving forward the intersection of cutting-edge technology and human-centered design. Every day is an opportunity to learn, build, and contribute to shaping the future of technology.
 
-- 🔭 I’m currently working on building evidence of my new aquired cybersecurity knowledge
-- 🌱 I’m currently learning network security and cloud computing
-- 👯 I’m looking to collaborate on any automation I can script with python
-- 🤔 I’m looking for help with getting my first job in the cybersecurity space
-- 💬 Ask me about physical and mental health
+- 🔭 I’m currently working on advancing AI-driven interfaces and applications
+- 🌱 I’m exploring the next wave of engineering paradigms in AI and UI development
+- 👯 I’m looking to collaborate on innovative projects in AI and emerging tech
+- 💬 Ask me about user experience, frontend frameworks, and bridging design with technology
 - 📫 How to reach me: info@nornaiz.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Botanically, what we think of as the "strawberry" is not the actual fruit. The small, yellow "seeds" on the outside are called achenes, and each one is technically a fruit. Inside each achene is a tiny seed. The fleshy part that we eat is actually the swollen part of the plant’s receptacle, which is the part of the stem that supports the flower.
+- ⚡ Fun fact: The word “engineer” originates from the Latin "ingenium," meaning "cleverness" or "skill," reflecting both the creativity and ingenuity required in this field.
 
 ### Current Skills
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="HTMX" src="https://img.shields.io/badge/-HTMX-0080FF?style=flat-square&logo=htmx&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
