@@ -1,65 +1,104 @@
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3c6745b4-eb8b-478f-a556-eb5fdf945a3b" alt="matrixo" width="230"/>
   <img src="https://github.com/user-attachments/assets/3c6745b4-eb8b-478f-a556-eb5fdf945a3b" alt="matrixo" width="230"/>
   <img src="https://github.com/user-attachments/assets/3c6745b4-eb8b-478f-a556-eb5fdf945a3b" alt="matrixo" width="230"/>
 </div>
 
+<h1 align="center">Iñaki Aranzadi</h1>
 
-# Imanol Iñaki Aranzadi  👋
+<p align="center">
+  <strong>Senior Design Engineer</strong> · React · TypeScript · Design Systems
+</p>
 
+<p align="center">
+  <em>Building AI first. Designing for humans.</em>
+</p>
 
-## Senior Design Engineer  
+<p align="center">
+  I bridge design and engineering — turning intent into interfaces people trust.
+</p>
 
-I am a Senior Design Engineer at the forefront of AI, working on state-of-the-art technology alongside some of the brightest minds in the industry. My current role focuses on crafting intuitive and robust user interfaces, pushing the boundaries of what's possible as we transition into the next era of engineering innovation.
+<p align="center">
+  <a href="https://inaki.to">inaki.to</a> ·
+  <a href="https://github.com/inaki">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/inaki-aranzadi/">LinkedIn</a> ·
+  <a href="https://cal.com/inakito">Book time</a> ·
+  <a href="mailto:hello@inakito.com">hello@inakito.com</a>
+</p>
 
-My expertise lies in designing scalable systems, creating exceptional user experiences, and driving forward the intersection of cutting-edge technology and human-centered design. Every day is an opportunity to learn, build, and contribute to shaping the future of technology.
+---
 
-- 🔭 I’m currently working on advancing AI-driven interfaces and applications
-- 🌱 I’m exploring the next wave of engineering paradigms in AI and UI development
-- 👯 I’m looking to collaborate on innovative projects in AI and emerging tech
-- 💬 Ask me about user experience, frontend frameworks, and bridging design with technology
-- 📫 How to reach me: info@nornaiz.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The word “engineer” originates from the Latin "ingenium," meaning "cleverness" or "skill," reflecting both the creativity and ingenuity required in this field.
+### About
 
-### Current Skills
+I didn't arrive with a title — I built the path. A decade of design systems at Williams-Sonoma, NextRequest, Afterpay, and Optimizely taught me that great interfaces are engineered from intent, not decorated at the end.
+
+When AI became the platform, that craft mattered more, not less. At **Herald** I own the human layer — editorial workflows, collaborative writing, and publishing surfaces where powerful models meet people who need to trust what they ship.
+
+Frontend roots, full-stack reach, and the engineer designers want in the room. I translate complexity into calm, high-fidelity UI — because the experience is the product.
+
+---
+
+### Snapshot
+
+- 🔭 **Currently:** Senior Design Engineer @ [Herald](https://github.com/inaki) — AI content platform surfaces beyond chat-centric UX (research synthesis, collaborative writing, fact-checking, publishing)
+- 🌱 **Exploring:** CLI/TUI tools for power users, AI-first product craft, and design systems that scale
+- 👯 **Collaborate on:** design systems, AI product surfaces, and high-craft frontend architecture
+- 💬 **Ask me about:** React, TypeScript, design systems, UX engineering, and bridging design with technology
+- 📫 **Reach me:** [hello@inakito.com](mailto:hello@inakito.com) · [cal.com/inakito](https://cal.com/inakito)
+- 📍 **Based:** SF Bay Area · Puerto Rico · Remote
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** The word “engineer” comes from Latin *ingenium* — cleverness / skill. Craft over ceremony.
+
+---
+
+### Skills
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="HTMX" src="https://img.shields.io/badge/-HTMX-0080FF?style=flat-square&logo=htmx&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="AI / LLMs" src="https://img.shields.io/badge/-AI%20%2F%20LLMs-7C3AED?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-### In Progress Skills
+**Also:** Design Systems · UX Engineering · CLI / TUI (Ink, Ratatui) · Flutter · Vercel · CI/CD
 
-<p>
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-33CCFF?style=flat-square&logo=azure&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/->___Powershell-071D49?style=flat-square&logo=powershell&logoColor=white" />
-  <img alt="Splunk" src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+---
 
-</p>
+### Featured work
+
+| Project | What it is |
+| --- | --- |
+| [**clarx**](https://github.com/Gernika-Labs/clarx) | AI-first codebase standard — analysis engine, s
+| [**kudeak**](https://github.com/inaki/kudeak) | Management tool for small gyms |
+| [**liburu**](https://github.com/inaki/liburu) | Simple desktop journal app |
+| [**kuantu**](https://github.com/inaki/kuantu) | Investment workspace tool |
+| [**hanzibit**](https://github.com/inaki/hanzibit) | Hanzi learning and practice tool |
+| [**docstree**](https://github.com/inaki/docstree) | Simple app to view your Google Drive documents |
+
+→ [All repositories](https://github.com/inaki?tab=repositories)
+
+---
+
+### Path so far
+
+**Herald** — Senior Design Engineer (2025–present)
+Human layer on an AI content platform: product flows beyond chat, CLI tools for power users, research / writing / publishing surfaces.
+
+Earlier design-system & frontend craft at **Joy**, **Williams-Sonoma**, **NextRequest**, **Afterpay**, **Walmart Labs**, **Optimizely**, **Gap Inc.**, **Autodesk**, and **Code for America**.
+
+---
 
 ### 📺 YouTube
 
@@ -69,6 +108,39 @@ My expertise lies in designing scalable systems, creating exceptional user exper
 [![Code4PR](https://ytcards.demolab.com/?id=f1tohrhEosU&title=Code4PR&lang=en&timestamp=1397005138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Code4PR")](https://www.youtube.com/watch?v=f1tohrhEosU)
 <!-- END YOUTUBE-CARDS -->
 
-
 [![YouTube Badge](https://img.shields.io/badge/Subscribe-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@drsiux/videos)
 
+───
+
+What changed (and why)
+
+┌────────────────────────────────────────────┬───────────────────────────────────────────────────────┐
+│ Old                                        │ New                                                   │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ Vague “forefront of AI / brightest minds”  │ Your site’s whoami story — specific, credible, human- │
+│ copy                                       │ layer focus                                           │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ Email info@nornaiz.com                     │ hello@inakito.com + inaki.to, LinkedIn, Cal           │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ No current company                         │ Herald + what you actually ship                       │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ Skills from ~2022 (HTMX, Webpack, Redux-   │ Skills from content.ts (TS/React/design systems/AI/   │
+│ heavy, Brave…)                             │ CLI/Supabase…)                                        │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ Broken half-<svg> in the badge block       │ Removed                                               │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ “In progress: AWS / Azure / PowerShell /   │ Dropped — not on the site; skills list is current     │
+│ Splunk”                                    │ craft instead                                         │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ No projects                                │ Featured table from GITHUB_PROJECTS                   │
+├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+│ Generic title only                         │ Senior Design Engineer · React · TypeScript · Design  │
+│                                            │ Systems + motto                                       │
+└────────────────────────────────────────────┴───────────────────────────────────────────────────────┘
+
+Optional tweaks before you paste
+
+1. Herald public link — if you have a company URL, swap the Herald line’s GitHub link for it.
+2. LinkedIn draft says RunLLM / Product Engineer — site source of truth is Herald + Design Engineer. If your day job title changed, tell me and I’ll align one line.
+3. YouTube cards — kept as-is (your auto-refresh markers). Drop the whole ### 📺 YouTube block if you want a cleaner profile.
+4. Triple matrix GIF — kept for personality; use one image if you want it less busy.
