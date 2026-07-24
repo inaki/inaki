@@ -110,37 +110,3 @@ Earlier design-system & frontend craft at **Joy**, **Williams-Sonoma**, **NextRe
 
 [![YouTube Badge](https://img.shields.io/badge/Subscribe-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@drsiux/videos)
 
-───
-
-What changed (and why)
-
-┌────────────────────────────────────────────┬───────────────────────────────────────────────────────┐
-│ Old                                        │ New                                                   │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ Vague “forefront of AI / brightest minds”  │ Your site’s whoami story — specific, credible, human- │
-│ copy                                       │ layer focus                                           │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ Email info@nornaiz.com                     │ hello@inakito.com + inaki.to, LinkedIn, Cal           │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ No current company                         │ Herald + what you actually ship                       │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ Skills from ~2022 (HTMX, Webpack, Redux-   │ Skills from content.ts (TS/React/design systems/AI/   │
-│ heavy, Brave…)                             │ CLI/Supabase…)                                        │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ Broken half-<svg> in the badge block       │ Removed                                               │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ “In progress: AWS / Azure / PowerShell /   │ Dropped — not on the site; skills list is current     │
-│ Splunk”                                    │ craft instead                                         │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ No projects                                │ Featured table from GITHUB_PROJECTS                   │
-├────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
-│ Generic title only                         │ Senior Design Engineer · React · TypeScript · Design  │
-│                                            │ Systems + motto                                       │
-└────────────────────────────────────────────┴───────────────────────────────────────────────────────┘
-
-Optional tweaks before you paste
-
-1. Herald public link — if you have a company URL, swap the Herald line’s GitHub link for it.
-2. LinkedIn draft says RunLLM / Product Engineer — site source of truth is Herald + Design Engineer. If your day job title changed, tell me and I’ll align one line.
-3. YouTube cards — kept as-is (your auto-refresh markers). Drop the whole ### 📺 YouTube block if you want a cleaner profile.
-4. Triple matrix GIF — kept for personality; use one image if you want it less busy.
