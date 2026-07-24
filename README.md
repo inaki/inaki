@@ -10,9 +10,9 @@
 # Imanol Iñaki Aranzadi  👋
 
 
-## Senior UI Engineer  
+## Senior Design Engineer  
 
-I am a Senior UI Engineer at the forefront of AI, working on state-of-the-art technology alongside some of the brightest minds in the industry. My current role focuses on crafting intuitive and robust user interfaces, pushing the boundaries of what's possible as we transition into the next era of engineering innovation.
+I am a Senior Design Engineer at the forefront of AI, working on state-of-the-art technology alongside some of the brightest minds in the industry. My current role focuses on crafting intuitive and robust user interfaces, pushing the boundaries of what's possible as we transition into the next era of engineering innovation.
 
 My expertise lies in designing scalable systems, creating exceptional user experiences, and driving forward the intersection of cutting-edge technology and human-centered design. Every day is an opportunity to learn, build, and contribute to shaping the future of technology.
 
